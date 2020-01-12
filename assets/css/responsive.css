@@ -1,0 +1,483 @@
+@media (min-width: 320px) and (max-width: 767px) {
+.on-boarding-row {
+	margin: 0px;
+}
+.header-row {
+	margin: 0px -15px;
+}
+.navigation .navbar-brand {
+    padding-left: 70px;
+}
+.navigation .navbar-nav li+li {
+	padding-left: 0px;
+}
+.navigation .navbar-nav li {
+	padding-top: 15px;
+}
+.navigation .navbar {
+    padding-left: 0;
+}
+.navbar-toggler {
+	position: absolute;
+	top: 11px;
+}
+.loan-title {
+	padding-top: 0px;
+}
+.progress-new {
+	border-bottom-left-radius: 0px;
+	border-top-right-radius: 20px;
+	padding-bottom: 20px;
+
+}
+.progress-welcome {
+	border-top-right-radius: 0px;
+	border-bottom-right-radius: 15px;
+	border-bottom-left-radius: 15px;
+}
+.progress-welcome .row {
+	margin: 0px;
+}
+.welcome-aboard-col {
+	margin-bottom: 30px !important;
+    padding-left: 30px !important;
+	padding-right: 30px !important;
+	text-align: center;
+}
+.welcome-aboard-col .subhead, .welcome-aboard-col h2 {
+	text-align: left;
+}
+.welcome-aboard-col .subhead {
+	padding-right: 0px;
+	font-size: 0.99rem;
+}
+.header-text {
+    font-size: 1.5rem;
+}
+.loan-payment {
+	padding-left: 30px !important
+}
+.loan-row-mb {
+	border: 1px solid #e3e3e3;
+	margin: 0px;
+	padding: 0px !important;
+	border-radius: 15px;
+}
+.loan-payment2 {
+	padding-left: 15px !important;
+	padding-right: 15px !important;
+	margin-top: 40px !important;
+}
+.loan-acount, .current-plan, .next-payment {
+	border: none;
+	padding-left: 25px !important;
+	padding-top: 25px !important;
+	padding-bottom: 15px;
+	padding-right: 25px;
+}
+.header-p {
+	height: 14px;
+	margin-top: 10px;
+}
+.loan-acount, .current-plan{
+	border-bottom: 1px solid #e3e3e3;
+}
+.next-payment img {
+	float: none !important;
+	margin: 0px auto !important;
+	display: block;
+	width: 100%;
+}
+.next-payment p {
+	padding: 20px 30px 0px !important;
+}
+.next-payment a {
+	display: block
+}
+.circle-img {
+	padding: 0px !important;
+	text-align: center;
+}
+.setup-paymnts {
+    font-size: 13px;
+    padding: 5px 20px;
+    font-weight: 700;
+}
+.circle-img .setup-paymnts {
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+.loan-body {
+	padding-left: 20px !important; 
+	padding-right: 20px !important; 
+	overflow: hidden;
+}
+.btn-view-detail {
+    float: right;
+	padding: 3px 0px 0px !important;
+	margin-left: 0px !important;
+	padding:
+}
+#loan-header {
+	padding-right: 0px;
+	position: relative;
+}
+#loan-header:after {
+	position: absolute;
+	content: " ";
+	left: -28px;
+	right: -28px;
+	bottom: -10px;
+	border-bottom: 1px solid #e3e3e3;
+}
+.border-left {
+	border-left: none !important;
+	padding-left: 0px !important;
+}
+.loan-cols,.loan-col {
+	margin-top: 0px !important;
+}
+.loan-cols {
+	padding-top: 20px !important;
+}
+.footer-bg {
+	text-align: center;
+	font-size: 14px;
+}
+.footer-bg .col-sm-12 {
+	padding: 0px !important;
+}
+.footer-bg .footer-icon ul {
+	width: 100%;
+}
+.footer-bg .footer-icon ul li {
+	margin-left: 0px;
+}
+.footer-bg .footer-icon {
+	background-color: #340261;
+	padding-top: 15px !important;
+}
+.tp_bottom_padding {
+	text-align: center ! important;
+	padding-top: 15px;
+}
+.footer {
+    text-align: center;
+}
+.ne-footer #pic_1 {
+    width: 185px;
+	margin: 0px auto;
+	float: none;
+}
+.navbar-toggler-icon i{
+	font-size: 35px;
+	color: #fff;
+}
+.header-icon  {
+	display: none;
+}
+.progress {
+	margin-bottom: 20px;
+}
+.welcome-col {
+    padding: 40px 15px 0px 0px;
+    color: #ab84d5;
+}
+.welcome-col h2 {
+    font-size: 1.9rem;
+}
+.last-payment p {
+    padding: 5px 0px 0px !important;
+}
+.last-payment big {
+	margin-top: 0px !important;
+}
+.circle-img img {
+	display: block !important;
+	margin: 0px auto !important;
+	float: none !important;
+}
+.circle-img ul {
+	margin-top: 30px;
+	display: block !important;
+}
+.circle-img ul li {
+	display: inline-block;
+	
+}
+.circle-img ul li+li {
+	margin-left: 20px;
+}
+.pay-summary-tabel .first-row1 {
+	border-bottom: 1px solid #e3e3e3 !important;
+}
+.pay-summary-tabel .second-table-row td {
+	padding-top: 60px;
+}
+.pay-summary-tabel .first-row1 td:first-child br {
+	display: none;
+}
+.pay-summary-tabel .second-table-row td {
+	border-bottom: none !important;
+}
+.pay-summary-tabel .first-row1 td {
+	border-bottom: 1px solid #e3e3e3 !important;
+}
+.pay-summary-tabel .second-table-row td:nth-of-type(2), .pay-summary-tabel .third-table-row td:nth-of-type(2), .pay-summary-tabel .first-row1 td:nth-of-type(2) {
+    border-left: 0px solid #e3e3e3 !important;
+}
+.loan-paymnt-tb {
+	padding-left: 0px !important;
+}
+.header-row .nav-tabs .nav-item {
+	display: block !important;
+	width: 100%;
+}
+.header-row .nav-tabs li+li {
+	padding-left: 0px;
+}
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active {
+    background-color: transparent;
+    border-bottom: 0px solid #72ddf5;
+}
+.header-row .nav-tabs li:nth-of-type(2) a {
+	padding: 0px 0px !important;
+}
+#menu2, #menu1 {
+	padding: 15px;
+}
+.funding-page-sm-margin {
+	overflow: hidden;
+	padding: 0px !important;
+}
+
+.sign-up-header span {
+	display: block;
+	margin-top: -7px;
+}
+.sign-up-header {
+	border-bottom: 2px solid #f1f1f1;
+}
+.payment-trough-monger-col {
+	border: none;
+	padding: 1rem 0rem;
+	margin-top: 2rem
+}
+.payment-trough-monger h3 {
+    font-size: 1.7rem;
+}
+.signup-pages .header-row {
+	margin: 0px;
+}
+.signup-scnd-row {
+	margin: 0px;
+}
+.mob-border {
+	border: 2px solid #f1f1f1; 
+}
+.mob-border {
+    border: 2px solid #f1f1f1;
+    margin: 0px 15px;
+	padding: 30px 0px;
+	border-radius: 15px;
+}
+.payment-trough-monger {
+    margin-bottom: 2rem;
+}
+.trophy-col {
+    padding: 0px 16px;
+    margin-bottom: 40px;
+}
+.trophy-col-footer {
+	padding: 0px;
+}
+.mob-signup-row {
+	margin-left: 0px;
+	margin-right: 0px;
+}
+.loan-mob-pad {
+	padding: 0px 15px !important;
+}
+.loan-mob-pad .first-p {
+	border-bottom: none;
+	padding:0px 30px 25px;
+}
+.col-p {
+	padding: 15px !important;
+}
+.col-p .loan-servicer-sub-col {
+	padding: 0px;
+}
+.col-p .loan-servicer-sub-col p {
+	position: relative;
+	padding-bottom: 18px;
+	margin-bottom: 10px;
+}
+.col-p .loan-servicer-sub-col p:after {
+	position: absolute;
+	content: " ";
+	left: 64px;
+	bottom: 0px;
+	width: 50px;
+	height: 2px;
+	background-color: #f1f1f1;
+}
+.col-p .minimum-payment-col {
+	padding-left: 64px !important;
+}
+.col-p .setup-btn-col {
+	text-align: center;
+	margin-bottom: 15px;
+}
+.col-p .setup-btn-col .btn {
+	padding: 6px 15px;
+}
+.bank-account h3,.funding-account h3 {
+	font-size: 1.5rem;
+}
+.bank-account .first-p,.funding-account .first-p {
+    padding: 0px 44px 35px;
+    line-height: 30px;
+}
+.loan-servicer-col p br {
+	display: none;
+}
+.mob-signup-row2 {
+	margin: 0px 15px !important;
+}
+.account-balance-col {
+	margin-left: 64px !important;
+}
+.fix-width-btn {
+	padding: 0px !important;
+}
+.lng-btn, .lng-btn2 {
+    width: 100% !important;
+    padding: 6px 10px;
+}
+.dummy-img4,.dummy-img3 {
+	text-align:  left !important;
+	margin-left: 50px !important
+}
+.mob-signup-row2 .loan-servicer-sub-col {
+	padding-left: 20px !important
+}
+.account-blnc {
+	padding-left: 20px !important;
+	margin-top: 20px;
+}
+.dummy-img {
+	text-align:  left !important;
+	margin-left: 0px !important
+}
+.fix-width-btn2 {
+	padding: 0px 15px !important;
+}
+.mob-signup-row2 .payee-details {
+	padding-left: 20px !important;
+	margin-bottom: 15px;
+}
+
+.mob-signup-row2 .payee-details1 {
+	margin-bottom: 25px;
+}
+.review-col-btn {
+	padding-left: 15px !important;
+	padding-right: 15px !important;
+}
+.display-none-mb {
+	display: none;
+}
+.review-col-btn .continue-btn2 {
+	float: none !important;
+	margin-right: 0px;
+	width: 100% !important;
+}
+.go-back2 {
+	display: block !important;
+	margin-bottom: 30px;
+}
+.clr-checkbox u {
+	display: block;
+}
+.check svg {
+	margin-top: -30px;
+}
+.review {
+    margin-bottom: 35px !important;
+}
+.continue-btn2 {
+	width: 100%;
+}
+.Congratulation-col {
+	padding-left: 15px !important;
+	padding-right: 15px !important;
+}
+.continue-btn, .setup-paymnts, .payment-btn, .sign-up-continue-btn, .setup-btn, .bank-btn, .continue-btn2 {
+    padding: 8px 15px 10px !important;
+}
+.update-payment-list {
+	display: none;
+}
+.setup-complt-col .minimum-payment-col {
+	padding-left: 84px !important;
+	margin-left: 0px !important;
+}
+.check-btn .btn-view-detail {
+	float: left !important;
+	margin-left: 25px !important;
+}
+.payee-details br {
+	display: none;
+}
+
+.finish-paymnt .lng-btn {
+    padding: 8px 0px 10px;
+}
+.loan-servicer-col-mb {
+	border: none;
+}
+.loan-servicer-col-mb {
+	padding-top: 0px !important;
+}
+.loan-servicer-col-mb .review h3 {
+	border-bottom: none;
+}
+.loan-servicer-col-mb .payment-trough-monger {
+	margin-bottom: 0px !important;
+}
+.edit-btn {
+	text-align: center;
+}
+.edit-btn .lng-btn2 {
+	float: none;
+}
+.loan-servicer-col-mb2 {
+	margin-bottom: 0px !important;
+}
+.loan-servicer-col-mb2 h3 {
+	font-size: 1.4rem;
+}
+
+
+
+}
+
+@media (max-width: 570px) {
+.information-col {
+	text-align: left !important;
+	position: relative;
+	padding-left: 40px;
+}
+.information-col i {
+	position: absolute;
+	left: 10px;
+	top: 5px;
+}
+.payment-trough-monger {
+    margin-bottom: 0rem;
+}
+
+
+
+} 
