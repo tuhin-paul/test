@@ -726,6 +726,11 @@ body {}
 
 @media (max-width: 767px) {
 
+    .comic-sec .yotpo-bottomline {
+        text-align: center !important;
+        float: none !important;
+        justify-content: center !important;
+    }
 
   .custom-list-one {
     display: initial !important;
