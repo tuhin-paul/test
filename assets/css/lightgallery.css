@@ -216,6 +216,12 @@
     .lg-toolbar .lg-close:after {
         content: "\e070";
     }
+    span.lg-close {
+        width: 47px !important;
+        background: red;
+        color: white !important;
+        opacity: 0.8;
+    }
 
     .lg-toolbar .lg-download:after {
         content: "\e0f2";
